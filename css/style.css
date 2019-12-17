@@ -8623,8 +8623,8 @@ h1, h2, h3, h4, h5,
     background-position: top center;
     position: relative; }
   .speaker.speaker-1 .img {
-    width: 120px;
-    height: 160px; }
+    width: 350px;
+    height: 220px; }
   @media (max-width: 767.98px) {
     .speaker.speaker-2 {
       height: 600px;
@@ -8642,9 +8642,9 @@ h1, h2, h3, h4, h5,
     margin-bottom: 0;
     color: #1162fb; }
   .speaker .position {
-    font-size: 13px;
+    font-size: 12px;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     font-weight: 500; }
   .speaker .ftco-social {
     margin: 0;
